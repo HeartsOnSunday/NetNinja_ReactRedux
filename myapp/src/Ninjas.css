@@ -1,0 +1,12 @@
+body {
+  margin: 50px;
+  padding: 20px;
+  font-family: serif;
+  background: #008799;
+  transition: all 1s;
+}
+
+form {
+  background: #ffffff;
+  padding: 20px;
+}
